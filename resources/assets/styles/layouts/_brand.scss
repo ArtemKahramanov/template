@@ -1,0 +1,11 @@
+.brand{
+    font: 38px 'PT';
+    text-align: center;
+    border-bottom: 25px;
+    display: block;
+    text-transform: uppercase;
+
+    &:hover{
+    	text-decoration: none;
+    }
+}
